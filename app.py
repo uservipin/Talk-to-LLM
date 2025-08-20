@@ -13,6 +13,8 @@ import plotly.graph_objects as go
 import uuid
 from auth import UserAuth
 
+# test update
+
 # Page configuration
 st.set_page_config(
     page_title="AI Assistant Pro",
